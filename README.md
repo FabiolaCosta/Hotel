@@ -1,2 +1,7 @@
-# Hotel
-Atividade proposta pelo professor Gabriel do Instituto Proa, desenvolver um programa para funcionários de um hotel, onde ele possa reservar quartos, cadastrar hóspedes e etc.
+<h1 align=center>Projeto Hotel</h1>
+
+<p>A proposta dessa atividade era desenvolver um programa para os funcionários de um hotel. Onde eles teriam as opções de reservar quartos, cadastrar e pesquisar hóspedes, reservar eventos entre outras coisas. </p>
+<hr>
+<h2>Tecnologia Utilizada:</h2>
+<img align="center" alt="Fabiola-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
